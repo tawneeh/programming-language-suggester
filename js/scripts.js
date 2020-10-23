@@ -9,7 +9,9 @@ $(document).ready(function() {
 
     let color = $("input:radio[name='color']:checked").val();
 
-    let hike = $("input:radio[name='beverage']:checked").val();
+    let hike = $("input:radio[name='hike']:checked").val();
+
+    let beverage = $("input:radio[name='beverage']:checked").val();
 
     let music = $("input:radio[name='music']:checked").val();
 
