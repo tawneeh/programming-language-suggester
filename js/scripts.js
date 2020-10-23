@@ -19,7 +19,7 @@ $(document).ready(function() {
 
     if (total === 5) {
       $("#javascript").show();
-    } else if (total > 5) {
+    } else if (total > 8) {
       $("#ruby").show();
     } else if (total < 5) {
       $("#csharp").show();

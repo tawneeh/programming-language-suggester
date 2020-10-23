@@ -6,7 +6,7 @@
 
 ## Description
 
-This webpage attemptes to conduct a small quiz of five questions to return a result with the programming language that the user should learn. 
+This webpage conducts a short quiz of five questions to return a result with the programming language that the user should learn. 
 
 ## Setup and Installation Instructions
 
