@@ -5,7 +5,11 @@ $(document).ready(function() {
     
     let dog = $("input[name="dog"]:checked").val(true);
       if (dog === true) {
-      alert("You love dogs!")
+        $('#javascript').show();
+      } else if (dog === false) {
+        $('#c-sharp').show();
+      } else if (music === true) {
+        $('#ruby').show();
       }
   });
 });
