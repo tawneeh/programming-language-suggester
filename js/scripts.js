@@ -17,10 +17,6 @@ $(document).ready(function() {
 
     let total = totalValue (dog, color, hike, beverage, music);
 
-    $("#javascript").hide();
-    $("#ruby").hide();
-    $("#csharp").hide();
-
     if (total === 5) {
       $("#javascript").show();
     } else if (total > 5) {

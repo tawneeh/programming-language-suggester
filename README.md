@@ -14,7 +14,7 @@ In order to access my Programming Language Suggester webpage, please open the Gi
 
 ## Known Bugs
 
-Unfortunately, my function writing could use some improvement. Thus, my quiz does not resturn a result. 
+Currently there are no known bugs.
 
 
 ## Support and Contact Details
