@@ -1,6 +1,6 @@
 # Programming Language Suggester
 
-### This is a webpage to help users choose between learing JavaScript, Ruby and C#.
+### This is a nonsensical webpage to help users choose between learning JavaScript, Ruby and C#, 10/28/2020
 
 ### By Tawnee Harris
 
