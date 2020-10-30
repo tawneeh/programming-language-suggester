@@ -17,11 +17,12 @@ $(document).ready(function() {
 
     let total = totalValue (dog, color, hike, beverage, music);
 
-    if (total === 5) {
+    $("#javascript, #ruby, #csharp").hide();
+    if (total === 11) {
       $("#javascript").show();
-    } else if (total > 8) {
+    } else if (total >= 8) {
       $("#ruby").show();
-    } else if (total < 5) {
+    } else if (total <= 7) {
       $("#csharp").show();
     }
   event.preventDefault();
